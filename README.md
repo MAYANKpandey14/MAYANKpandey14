@@ -1,5 +1,5 @@
 # 💫 About Me:
-Heyy<br>Mayank here, I am Junior year Computer science student.<br>Currently at @FantasySquad.in as Game developement Intern.<br>Making HTML5 Game using Construct 3 and JavaScript.<br>Contact me:- mayankpandeyofficial404@gmail.com<br>
+Heyy<br>Mayank here, I am Junior year Computer science student.<br>Using JavaScript to make interactive and responsive Websites and Games.<br>Contact me:- mayankpandeyofficial404@gmail.com<br>
 
 
 ## 🌐 Socials:
