@@ -1,5 +1,5 @@
 # 💫 About Me:
-Heyy<br>Mayank here, I am senior year Computer science student.<br>Using web technologies to create impactful and interactive user interfaces.<br>Contact me:- mayankpandeyofficial404@gmail.com
+Heyy<br>Mayank here, Web Developer, Open source advocate and Web3 Geek.<br>Using web technologies to create impactful and interactive user interfaces.<br>Contact me:- mayankpandeyofficial404@gmail.com
 
 
 ## 🌐 Socials:
